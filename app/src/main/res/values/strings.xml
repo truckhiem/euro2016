@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Euro2016</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="country">
+        <item>france</item>
+        <item>romania</item>
+        <item>albania</item>
+        <item>switzerland</item>
+
+        <item>england</item>
+        <item>russia</item>
+        <item>wales</item>
+        <item>slovakia</item>
+
+        <item>germany</item>
+        <item>ukraine</item>
+        <item>poland</item>
+        <item>n.ireland</item>
+
+        <item>spain</item>
+        <item>czech republic</item>
+        <item>turkey</item>
+        <item>croatia</item>
+
+        <item>belgium</item>
+        <item>italy</item>
+        <item>rep.ireland</item>
+        <item>sweden</item>
+
+        <item>portugal</item>
+        <item>iceland</item>
+        <item>austria</item>
+        <item>hungary</item>
+
+    </string-array>
+</resources>

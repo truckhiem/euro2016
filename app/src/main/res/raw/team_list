@@ -1,0 +1,305 @@
+{
+	"teamInfoItems": [{
+		"idTeam": 2,
+		"webName": "Albania",
+		"officialName": "Albania",
+		"typeIsNational": 1,
+		"teamCode": "ALB",
+		"countryCode": "ALB",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/ALB.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/ALB.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/ALB.png"
+		}
+	}, {
+		"idTeam": 8,
+		"webName": "Austria",
+		"officialName": "Austria",
+		"typeIsNational": 1,
+		"teamCode": "AUT",
+		"countryCode": "AUT",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/AUT.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/AUT.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/AUT.png"
+		}
+	}, {
+		"idTeam": 13,
+		"webName": "Belgium",
+		"officialName": "Belgium",
+		"typeIsNational": 1,
+		"teamCode": "BEL",
+		"countryCode": "BEL",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/BEL.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/BEL.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/BEL.png"
+		}
+	}, {
+		"idTeam": 56370,
+		"webName": "Croatia",
+		"officialName": "Croatia",
+		"typeIsNational": 1,
+		"teamCode": "CRO",
+		"countryCode": "CRO",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/CRO.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/CRO.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/CRO.png"
+		}
+	}, {
+		"idTeam": 58837,
+		"webName": "Czech Republic",
+		"officialName": "Czech Republic",
+		"typeIsNational": 1,
+		"teamCode": "CZE",
+		"countryCode": "CZE",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/CZE.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/CZE.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/CZE.png"
+		}
+	}, {
+		"idTeam": 39,
+		"webName": "England",
+		"officialName": "England",
+		"typeIsNational": 1,
+		"teamCode": "ENG",
+		"countryCode": "ENG",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/ENG.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/ENG.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/ENG.png"
+		}
+	}, {
+		"idTeam": 43,
+		"webName": "France",
+		"officialName": "France",
+		"typeIsNational": 1,
+		"teamCode": "FRA",
+		"countryCode": "FRA",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/FRA.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/FRA.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/FRA.png"
+		}
+	}, {
+		"idTeam": 47,
+		"webName": "Germany",
+		"officialName": "Germany",
+		"typeIsNational": 1,
+		"teamCode": "GER",
+		"countryCode": "GER",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/GER.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/GER.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/GER.png"
+		}
+	}, {
+		"idTeam": 57,
+		"webName": "Hungary",
+		"officialName": "Hungary",
+		"typeIsNational": 1,
+		"teamCode": "HUN",
+		"countryCode": "HUN",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/HUN.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/HUN.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/HUN.png"
+		}
+	}, {
+		"idTeam": 58,
+		"webName": "Iceland",
+		"officialName": "Iceland",
+		"typeIsNational": 1,
+		"teamCode": "ISL",
+		"countryCode": "ISL",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/ISL.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/ISL.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/ISL.png"
+		}
+	}, {
+		"idTeam": 66,
+		"webName": "Italy",
+		"officialName": "Italy",
+		"typeIsNational": 1,
+		"teamCode": "ITA",
+		"countryCode": "ITA",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/ITA.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/ITA.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/ITA.png"
+		}
+	}, {
+		"idTeam": 63,
+		"webName": "Northern Ireland",
+		"officialName": "Northern Ireland",
+		"typeIsNational": 1,
+		"teamCode": "NIR",
+		"countryCode": "NIR",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/NIR.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/NIR.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/NIR.png"
+		}
+	}, {
+		"idTeam": 109,
+		"webName": "Poland",
+		"officialName": "Poland",
+		"typeIsNational": 1,
+		"teamCode": "POL",
+		"countryCode": "POL",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/POL.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/POL.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/POL.png"
+		}
+	}, {
+		"idTeam": 110,
+		"webName": "Portugal",
+		"officialName": "Portugal",
+		"typeIsNational": 1,
+		"teamCode": "POR",
+		"countryCode": "POR",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/POR.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/POR.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/POR.png"
+		}
+	}, {
+		"idTeam": 64,
+		"webName": "Republic of Ireland",
+		"officialName": "Republic of Ireland",
+		"typeIsNational": 1,
+		"teamCode": "IRL",
+		"countryCode": "IRL",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/IRL.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/IRL.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/IRL.png"
+		}
+	}, {
+		"idTeam": 113,
+		"webName": "Romania",
+		"officialName": "Romania",
+		"typeIsNational": 1,
+		"teamCode": "ROU",
+		"countryCode": "ROU",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/ROU.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/ROU.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/ROU.png"
+		}
+	}, {
+		"idTeam": 57451,
+		"webName": "Russia",
+		"officialName": "Russia",
+		"typeIsNational": 1,
+		"teamCode": "RUS",
+		"countryCode": "RUS",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/RUS.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/RUS.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/RUS.png"
+		}
+	}, {
+		"idTeam": 58836,
+		"webName": "Slovakia",
+		"officialName": "Slovakia",
+		"typeIsNational": 1,
+		"teamCode": "SVK",
+		"countryCode": "SVK",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/SVK.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/SVK.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/SVK.png"
+		}
+	}, {
+		"idTeam": 122,
+		"webName": "Spain",
+		"officialName": "Spain",
+		"typeIsNational": 1,
+		"teamCode": "ESP",
+		"countryCode": "ESP",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/ESP.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/ESP.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/ESP.png"
+		}
+	}, {
+		"idTeam": 127,
+		"webName": "Sweden",
+		"officialName": "Sweden",
+		"typeIsNational": 1,
+		"teamCode": "SWE",
+		"countryCode": "SWE",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/SWE.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/SWE.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/SWE.png"
+		}
+	}, {
+		"idTeam": 128,
+		"webName": "Switzerland",
+		"officialName": "Switzerland",
+		"typeIsNational": 1,
+		"teamCode": "SUI",
+		"countryCode": "SUI",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/SUI.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/SUI.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/SUI.png"
+		}
+	}, {
+		"idTeam": 135,
+		"webName": "Turkey",
+		"officialName": "Turkey",
+		"typeIsNational": 1,
+		"teamCode": "TUR",
+		"countryCode": "TUR",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/TUR.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/TUR.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/TUR.png"
+		}
+	}, {
+		"idTeam": 57166,
+		"webName": "Ukraine",
+		"officialName": "Ukraine",
+		"typeIsNational": 1,
+		"teamCode": "UKR",
+		"countryCode": "UKR",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/UKR.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/UKR.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/UKR.png"
+		}
+	}, {
+		"idTeam": 144,
+		"webName": "Wales",
+		"officialName": "Wales",
+		"typeIsNational": 1,
+		"teamCode": "WAL",
+		"countryCode": "WAL",
+		"teamLogo": {
+			"logo_70": "http://img.uefa.com/imgml/flags/mobileapp/70x70/WAL.png",
+			"logo_240": "http://img.uefa.com/imgml/flags/mobileapp/240x240/WAL.png",
+			"logo_700": "http://img.uefa.com/imgml/flags/mobileapp/700x700/WAL.png"
+		}
+	}],
+	"meta": {
+		"apiVersion": "1.0",
+		"generatedAt": "2016-04-01 12:20:13",
+		"requestedBy": "SWAGGER",
+		"deprecationWarning": {
+			"message": null,
+			"deadline": null
+		}
+	},
+	"pagination": {
+		"nextUrl": null,
+		"previousUrl": null,
+		"maxItems": 0
+	}
+}

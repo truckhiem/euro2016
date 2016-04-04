@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="api_group">http://daaseuro2016.uefa.com/api/v1/mobile/euro2016/groupdetail?idCup=3&amp;idCupSeason=2016&amp;idGroup=%s&amp;tournamentPhase=2&amp;language=en</string>
+    <string name="group_id_A">2002441</string>
+    <string name="group_id_B">2002442</string>
+    <string name="group_id_C">2002443</string>
+    <string name="group_id_D">2004544</string>
+    <string name="group_id_E">2002444</string>
+    <string name="group_id_F">2004543</string>
+    <string name="token">SportDataLayer key=D05BD07B-8B07-414E-AF74-CF30B9926BE6</string>
+    <string name="group_name_A">Group A</string>
+    <string name="group_name_B">Group B</string>
+    <string name="group_name_C">Group C</string>
+    <string name="group_name_D">Group D</string>
+    <string name="group_name_E">Group E</string>
+    <string name="group_name_F">Group F</string>
+</resources>
