@@ -12,6 +12,12 @@
 
     <string name="action_settings">Settings</string>
 
+    <string-array name="menu">
+        <item>Home</item>
+        <item>Teams</item>
+        <item>Matchs</item>
+    </string-array>
+
     <string-array name="country">
         <item>france</item>
         <item>romania</item>

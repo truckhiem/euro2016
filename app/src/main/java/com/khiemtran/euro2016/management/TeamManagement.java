@@ -4,7 +4,6 @@ import android.content.Context;
 
 import com.khiemtran.euro2016.R;
 import com.khiemtran.euro2016.Utils.General;
-import com.khiemtran.euro2016.models.GroupModel;
 import com.khiemtran.euro2016.models.TeamModel;
 
 import org.json.JSONArray;
@@ -20,7 +19,7 @@ public class TeamManagement {
 
     private static TeamManagement instance;
     private Context mContex;
-    private ArrayList<TeamModel> lstGroup = new ArrayList<>();
+    private ArrayList<TeamModel> lstTeam = new ArrayList<>();
 
     public static TeamManagement getInstance(){
         if(instance == null){
@@ -31,16 +30,18 @@ public class TeamManagement {
 
     public void loadData(Context mContext){
         this.mContex = mContext;
-        String strData = General.readJsonFromRaw(mContext, R.raw.match_list);
+        String strData = General.readJsonFromRaw(mContext, R.raw.team_list);
         try {
             JSONObject jsonObject = new JSONObject(strData);
-            JSONArray jsonArray = jsonObject.getJSONArray("");
+            JSONArray jsonArray = jsonObject.getJSONArray("teamInfoItems");
             for (int i = 0; i < jsonArray.length(); i++) {
                 TeamModel group = new TeamModel(jsonArray.getJSONObject(i));
-                lstGroup.add(group);
+                lstTeam.add(group);
             }
         } catch (JSONException e) {
             e.printStackTrace();
         }
     }
+
+    public ArrayList<TeamModel> getLstTeam(){return lstTeam;}
 }
